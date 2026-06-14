@@ -2,7 +2,8 @@
 This is my first git repository 
 <hr>
 <br>
-<big>Author:riya bhatlavande</big>
+<Big>Author:riya bhatlavande</Big>
 <br>
 <b>This is my local repo</b>
-<small>This is my first project</small>
+<br>
+<Small>This is my first project</Small>
