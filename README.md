@@ -5,4 +5,4 @@ This is my first git repository
 <big>Author:riya bhatlavande</big>
 <br>
 <b>This is my local repo</b>
-<--This is my first project-->
+<small>This is my first project</small>
